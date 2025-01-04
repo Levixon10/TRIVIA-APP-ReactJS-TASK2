@@ -1,16 +1,13 @@
 {
   "name": "react-trivia-app",
   "private": true,
-  "homepage": "https://levixon10.github.io/Trivia-Web-App-ReactJS-Task2/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deply":"gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",

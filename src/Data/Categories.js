@@ -17,7 +17,7 @@ const Categories = [
     { category: "Sports", value: 21 },
     { category: "Geography", value: 22 },
     { category: "History", value: 23 },
-    { category: "Politics", value: 24 },
+   // { category: "Politics", value: 24 },
     { category: "Celebrities", value: 26 },
     { category: "Animals", value: 27 },
     { category: "Vehicles", value: 28 },
